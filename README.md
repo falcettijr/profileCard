@@ -18,7 +18,7 @@ Essa é uma solução para o desafio "Front End Mentor" [Profile card component 
 
 ## Screenshot
 
-![Screenshot](screenshotprofile.png)
+![Screenshot](screenshotprofile.png#vitrinedev)
 
 ## Links
 
