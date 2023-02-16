@@ -23,7 +23,7 @@ Essa é uma solução para o desafio "Front End Mentor" [Profile card component 
 ## Links
 
 - Repository: [Repository](https://github.com/falcettijr/profileCard)
-- Solution URL: [Solução] ()
+- Solution URL: [Solução](https://frontendmentor.io/solutions/profile-card-component-8oT7VIICPm)
 - Live Site URL: [Live Site](https://falcettijr.github.io/profileCard/)
 
 ## Feito com
